@@ -1,0 +1,57 @@
+{
+  "credential": {
+    "uid": "973519",
+    "type": "professional-certification",
+    "title": "Certified Information Systems Security Professional",
+    "abbreviation": "CISSP",
+    "status": "inactive",
+    "status_reason": "archived_record_snapshot",
+    "version": "1.0.0",
+    "hash_signature": "GH-Verified-Snapshot"
+  },
+  "recipient": {
+    "full_name": "Archit D",
+    "certified_since": "2022-02-01T00:00:00Z",
+    "identifiers": {
+      "public_id": "973519",
+      "internal_ref": "CISSP-ARCHITD-ISC2"
+    }
+  },
+  "issuer": {
+    "organization": "(ISC)²",
+    "full_name": "International Information System Security Certification Consortium",
+    "official_website": "https://www.isc2.org",
+    "signature_block": [
+      {
+        "signatory": "Dr. Kevin Charest",
+        "position": "Chairperson"
+      },
+      {
+        "signatory": "Lori Ross O'Neil",
+        "position": "Secretary"
+      }
+    ]
+  },
+  "cycle": {
+    "issue_date": "2022-02-01T00:00:00Z",
+    "expiry_date": "2025-01-31T23:59:59Z",
+    "recertification_interval_days": 1095
+  },
+  "audit": {
+    "repository_url": "https://github.com/archit-d/isc2-cissp-credential-log",
+    "archived_commit": "Initial record archival - signed",
+    "commit_hash": "",
+    "created_at_utc": "2022-02-01T04:00:00Z",
+    "last_verified": "2025-01-01T00:00:00Z"
+  },
+  "access": {
+    "verifiable_online": false,
+    "requires_auth": false,
+    "distribution_permission": "restricted",
+    "license_path": "./LICENSE"
+  },
+  "assets": {
+    "certificate_image": "CISSP-Certificate-ArchitD-973519.JPEG",
+    "metadata_file": "cissp_metadata.json"
+  }
+}
